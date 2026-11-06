@@ -1,0 +1,21 @@
+# Pastas geradas pelo Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Arquivos temporários
+*.csproj
+*.sln
+*.tmp
+*.log
+
+# Visual Studio
+.vs/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
