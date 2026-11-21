@@ -26,7 +26,7 @@ public class HeadCollisionHandler : MonoBehaviour
             return;
         }
         Vector3 pushBackDirection
-        = CalculatePushBackDirection(_detector.DetectedColliderHits);
+ = CalculatePushBackDirection(_detector.DetectedColliderHits);
         Debug.DrawRay(transform.position, pushBackDirection.normalized,
        Color.magenta);
         _characterController

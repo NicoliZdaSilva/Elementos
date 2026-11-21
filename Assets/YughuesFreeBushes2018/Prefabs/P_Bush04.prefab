@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2121115777600547027}
   - component: {fileID: 2121115777599416851}
   - component: {fileID: 8434267840660418431}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bush04_LOD0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -118,7 +118,7 @@ GameObject:
   - component: {fileID: 2121115777601841395}
   - component: {fileID: 2121115777583152211}
   - component: {fileID: 7905176559416984902}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: P_Bush04
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -158,19 +158,19 @@ LODGroup:
   m_AnimateCrossFading: 0
   m_LastLODIsBillboard: 0
   m_LODs:
-  - screenRelativeHeight: 0.50459963
+  - screenRelativeHeight: 0.49890223
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 2121115777599416851}
-  - screenRelativeHeight: 0.2453637
+  - screenRelativeHeight: 0.25146103
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 2121115777599416849}
-  - screenRelativeHeight: 0.09904677
+  - screenRelativeHeight: 0.2155162
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 2121115777599416855}
-  - screenRelativeHeight: 0.003641223
+  - screenRelativeHeight: 0.0028525563
     fadeTransitionWidth: 0
     renderers:
     - renderer: {fileID: 2121115777599416853}
@@ -194,8 +194,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 5.9937706, z: 9.836365}
-  m_Center: {x: -0.0000016537708, y: 4.371725, z: -4.41817}
+  m_Size: {x: 2.8552294, y: 5.6105003, z: 9.366741}
+  m_Center: {x: 0.9276014, y: 4.179949, z: -4.6529813}
 --- !u!1 &2121115777601418453
 GameObject:
   m_ObjectHideFlags: 0
@@ -208,7 +208,7 @@ GameObject:
   - component: {fileID: 2121115777600547031}
   - component: {fileID: 2121115777599416855}
   - component: {fileID: 5478717489039897902}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bush04_LOD2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -315,7 +315,7 @@ GameObject:
   - component: {fileID: 2121115777600547025}
   - component: {fileID: 2121115777599416849}
   - component: {fileID: 3225938465742569743}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bush04_LOD1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -422,7 +422,7 @@ GameObject:
   - component: {fileID: 2121115777600547029}
   - component: {fileID: 2121115777599416853}
   - component: {fileID: 6057421060386142568}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Bush04_LOD3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -439,7 +439,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0.000000021855694, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -0, y: 1.6249, z: -5.5734}
-  m_LocalScale: {x: 0.1, y: 0.5433058, z: 0.735103}
+  m_LocalScale: {x: 0.5, y: 0.5433058, z: 0.735103}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2121115777601841395}
