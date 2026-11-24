@@ -270,8 +270,8 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.26968122, g: 0.690566, b: 0.28745106, a: 1}
-    - _Color: {r: 0.2696812, g: 0.690566, b: 0.28745103, a: 1}
+    - _BaseColor: {r: 0.2696798, g: 0.690566, b: 0.2874497, a: 1}
+    - _Color: {r: 0.26967978, g: 0.690566, b: 0.28744966, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _TranslucencyColor: {r: 0.73, g: 0.85, b: 0.41, a: 1}
@@ -377,8 +377,8 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.60754704, g: 0.3621097, b: 0.18682054, a: 1}
-    - _Color: {r: 0.60754704, g: 0.36210966, b: 0.1868205, a: 1}
+    - _BaseColor: {r: 0.60754704, g: 0.36210832, b: 0.18681923, a: 1}
+    - _Color: {r: 0.60754704, g: 0.3621083, b: 0.1868192, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
